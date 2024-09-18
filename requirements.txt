@@ -1,0 +1,14 @@
+ollama
+streamlit 
+pypdf
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters
+ipykernel
+faiss-cpu
+PyPDF2
+fastapi
+pydantic
+uvicorn
+python-multipart
